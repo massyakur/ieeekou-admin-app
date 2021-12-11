@@ -8,7 +8,7 @@ function App() {
       <Navbar />
       <div className="container">
         <Sidebar />
-        <div className="others">other page</div>
+        <div className="others">Home Page</div>
       </div>
     </div>
   );
