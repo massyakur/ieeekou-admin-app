@@ -1,3 +1,17 @@
+<h1>IEEEKOU CS 1st Project</h1>
+<h3>React IEEEKOU Admin Dashboard - still under development...</h3>
+<p>Made with ReactJS, Material Icons and custom css.</p>
+
+<h3>8th Team</h3>
+<ul>
+  <li>Muhammad Abdan Syakura</li>
+  <li>Şevval Melodi Keleş</li>
+  <li>Aras Deveci</li>
+</ul>
+
+<h2>Screenshot from the project</h2>
+<img src="IEEEKOU.png" alt="">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
